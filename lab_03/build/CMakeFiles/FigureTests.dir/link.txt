@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/FigureTests.dir/tests/test_figures.cpp.o CMakeFiles/FigureTests.dir/Figure.cpp.o CMakeFiles/FigureTests.dir/Rectangle.cpp.o CMakeFiles/FigureTests.dir/Trapezoid.cpp.o CMakeFiles/FigureTests.dir/Rhombus.cpp.o -o FigureTests  /opt/homebrew/lib/libgtest.a -lpthread

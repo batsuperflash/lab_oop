@@ -1,0 +1,8 @@
+version: "3.8"
+
+services:
+  lab01:
+    build: .
+    container_name: lab01_container
+    stdin_open: true   # позволяет вводить строки в консоль
+    tty: true          # оставляем терминал интерактивным

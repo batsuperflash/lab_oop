@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/Lab03_OOP.dir/main.cpp.o CMakeFiles/Lab03_OOP.dir/Figure.cpp.o CMakeFiles/Lab03_OOP.dir/Rectangle.cpp.o CMakeFiles/Lab03_OOP.dir/Trapezoid.cpp.o CMakeFiles/Lab03_OOP.dir/Rhombus.cpp.o -o Lab03_OOP

@@ -1,0 +1,16 @@
+# сборка CMake
+/build/
+/CMakeFiles/
+/CMakeCache.txt
+/*.o
+/*.a
+/*.so
+/*.exe
+
+# test GoogleTest сбок
+/tests/build/
+
+# IDE
+.vscode/
+*.user
+*.swp

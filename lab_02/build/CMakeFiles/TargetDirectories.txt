@@ -1,0 +1,5 @@
+/Users/yana/oop_labs/lab_02/build/CMakeFiles/BinaryMain.dir
+/Users/yana/oop_labs/lab_02/build/CMakeFiles/BinaryTests.dir
+/Users/yana/oop_labs/lab_02/build/CMakeFiles/test.dir
+/Users/yana/oop_labs/lab_02/build/CMakeFiles/edit_cache.dir
+/Users/yana/oop_labs/lab_02/build/CMakeFiles/rebuild_cache.dir
