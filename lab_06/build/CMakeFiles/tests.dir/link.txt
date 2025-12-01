@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/tests.dir/tests/test_main.cpp.o CMakeFiles/tests.dir/tests/test_dungeon.cpp.o CMakeFiles/tests.dir/dungeon.cpp.o -o tests  /opt/homebrew/lib/libgtest.a -lpthread

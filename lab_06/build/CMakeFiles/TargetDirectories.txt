@@ -1,0 +1,5 @@
+/Users/yana/oop_labs/lab_06/build/CMakeFiles/dungeon.dir
+/Users/yana/oop_labs/lab_06/build/CMakeFiles/tests.dir
+/Users/yana/oop_labs/lab_06/build/CMakeFiles/test.dir
+/Users/yana/oop_labs/lab_06/build/CMakeFiles/edit_cache.dir
+/Users/yana/oop_labs/lab_06/build/CMakeFiles/rebuild_cache.dir

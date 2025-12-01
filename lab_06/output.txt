@@ -1,0 +1,4 @@
+Dragon NPC1 236 283
+Frog NPC2 354 453
+Dragon NPC3 25 28
+Knight NPC4 42 199
