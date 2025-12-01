@@ -1,0 +1,6 @@
+.DS_Store
+build/
+lab_06/build/
+*.o
+*.exe
+*.log
